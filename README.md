@@ -10,6 +10,7 @@
 
 ## 📋 Using
 
-You need to run [this] file
+You need to run [this] file. Click [here] to download.
 
 [this]: https://github.com/w3bsme/vac-auth-fix-csgo/raw/main/vac_auth_softfix.bat
+[here]: https://github.com/w3bsme/vac-auth-fix-csgo/archive/main.zip
